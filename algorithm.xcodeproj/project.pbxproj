@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5CC3D4022230D2320032C6AD /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5CC3D4012230D2320032C6AD /* main.cpp */; };
+		5C06EBFE223E37DB0005B60A /* 剑指offer_28_数组中出现次数超过一半的数字.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5C06EBFD223E37DB0005B60A /* 剑指offer_28_数组中出现次数超过一半的数字.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +23,108 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5C06EBF8223BE6760005B60A /* 剑指offer_26_二叉搜索树与双向链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_26_二叉搜索树与双向链表.cpp"; sourceTree = "<group>"; };
+		5C06EBFA223C99860005B60A /* 剑指offer_27_字符串的排列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_27_字符串的排列.cpp"; sourceTree = "<group>"; };
+		5C06EBFD223E37DB0005B60A /* 剑指offer_28_数组中出现次数超过一半的数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_28_数组中出现次数超过一半的数字.cpp"; sourceTree = "<group>"; };
+		5C08433522339F98001DAAF4 /* 剑指offer_20_包含min函数的栈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_20_包含min函数的栈.cpp"; sourceTree = "<group>"; };
+		5C0843382233AD7C001DAAF4 /* 142LinkedListCycleII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 142LinkedListCycleII.cpp; sourceTree = "<group>"; };
+		5C08433A2233B9B0001DAAF4 /* 160IntersectionofTwoLinkedLists.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 160IntersectionofTwoLinkedLists.cpp; sourceTree = "<group>"; };
+		5C4266B52236A6E300806844 /* 剑指offer_21_栈的压入弹出序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_21_栈的压入弹出序列.cpp"; sourceTree = "<group>"; };
+		5C4266B72236B11800806844 /* 剑指offer_22_从上往下打印二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_22_从上往下打印二叉树.cpp"; sourceTree = "<group>"; };
+		5C57E59522328A7E0074739C /* 剑指offer_16_合并两个排序的链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_16_合并两个排序的链表.cpp"; sourceTree = "<group>"; };
+		5C57E597223295080074739C /* 剑指offer_17_树的子结构.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_17_树的子结构.cpp"; sourceTree = "<group>"; };
+		5C57E5992232A1A80074739C /* 剑指offer_18_二叉树的镜像.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_18_二叉树的镜像.cpp"; sourceTree = "<group>"; };
+		5C57E59B2232A9C90074739C /* 剑指offer_19_顺时针打印矩阵.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_19_顺时针打印矩阵.cpp"; sourceTree = "<group>"; };
+		5C5A4FAE2238A31E009A0DFD /* 剑指offer_25_复杂链表的复制.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_25_复杂链表的复制.cpp"; sourceTree = "<group>"; };
+		5C7E446B2233FEFF002E5231 /* tencent2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = tencent2.cpp; sourceTree = "<group>"; };
+		5C7E446C2233FEFF002E5231 /* tencent1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = tencent1.cpp; sourceTree = "<group>"; };
+		5C7E446D2233FEFF002E5231 /* tencent3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = tencent3.cpp; sourceTree = "<group>"; };
+		5C7E446E2233FF6F002E5231 /* tencent4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = tencent4.cpp; sourceTree = "<group>"; };
+		5CB0EEA42239194400963CF4 /* 把所有非0元素移动到数组末尾.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "把所有非0元素移动到数组末尾.cpp"; sourceTree = "<group>"; };
+		5CC3CCB822375A1F00961029 /* 剑指offer_23_二叉搜索树的后序遍历序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_23_二叉搜索树的后序遍历序列.cpp"; sourceTree = "<group>"; };
+		5CC3CCBA2237FE8100961029 /* 剑指offer_24_二叉树中和为某一值的所有路径.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_24_二叉树中和为某一值的所有路径.cpp"; sourceTree = "<group>"; };
 		5CC3D3FE2230D2320032C6AD /* algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CC3D4012230D2320032C6AD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5CC3D4082230D2530032C6AD /* model.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = model.cpp; sourceTree = "<group>"; };
+		5CC3D4392230D2530032C6AD /* pid.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = pid.c; sourceTree = "<group>"; };
+		5CC3D43B2230D2530032C6AD /* alds1_9_b_maximum_heap.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_9_b_maximum_heap.cpp; sourceTree = "<group>"; };
+		5CC3D43C2230D2530032C6AD /* alds1_12_b_single_source_shortest_path_II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_12_b_single_source_shortest_path_II.cpp; sourceTree = "<group>"; };
+		5CC3D43D2230D2530032C6AD /* alds1_11_b_dfs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_11_b_dfs.cpp; sourceTree = "<group>"; };
+		5CC3D43E2230D2530032C6AD /* alds1_11_c_bfs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_11_c_bfs.cpp; sourceTree = "<group>"; };
+		5CC3D43F2230D2530032C6AD /* alds1_9_c_priority_queue.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_9_c_priority_queue.cpp; sourceTree = "<group>"; };
+		5CC3D4402230D2530032C6AD /* alds1_5_a_exhaustive_search.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_5_a_exhaustive_search.cpp; sourceTree = "<group>"; };
+		5CC3D4412230D2530032C6AD /* alds1_12_a_min_spanning_tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_12_a_min_spanning_tree.cpp; sourceTree = "<group>"; };
+		5CC3D4422230D2530032C6AD /* alds1_11_d_connected_componets.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_11_d_connected_componets.cpp; sourceTree = "<group>"; };
+		5CC3D4432230D2530032C6AD /* dpl_3_b_largest_rectangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dpl_3_b_largest_rectangle.cpp; sourceTree = "<group>"; };
+		5CC3D4442230D2530032C6AD /* dpl_1_a_coin_changing_problem_dp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dpl_1_a_coin_changing_problem_dp.cpp; sourceTree = "<group>"; };
+		5CC3D4452230D2530032C6AD /* alds1_7_c_tree_walk.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_7_c_tree_walk.cpp; sourceTree = "<group>"; };
+		5CC3D4462230D2530032C6AD /* alds1_7_a_rooted_tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_7_a_rooted_tree.cpp; sourceTree = "<group>"; };
+		5CC3D4472230D2530032C6AD /* cgl_7_e_cross_point_of_circles.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = cgl_7_e_cross_point_of_circles.cpp; sourceTree = "<group>"; };
+		5CC3D4482230D2530032C6AD /* alds1_10_a_fibonacci_number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_10_a_fibonacci_number.cpp; sourceTree = "<group>"; };
+		5CC3D4492230D2530032C6AD /* alds1_7_b_binary_tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_7_b_binary_tree.cpp; sourceTree = "<group>"; };
+		5CC3D44A2230D2530032C6AD /* alds1_8_a_binary_search_tree_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_8_a_binary_search_tree_1.cpp; sourceTree = "<group>"; };
+		5CC3D44B2230D2530032C6AD /* cgl_1_c_counter_clockwise.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = cgl_1_c_counter_clockwise.cpp; sourceTree = "<group>"; };
+		5CC3D44C2230D2530032C6AD /* cgl_2_c_cross_point.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = cgl_2_c_cross_point.cpp; sourceTree = "<group>"; };
+		5CC3D44D2230D2530032C6AD /* cgl_7_d_cross_point_of_a_circle_and_a_line.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = cgl_7_d_cross_point_of_a_circle_and_a_line.cpp; sourceTree = "<group>"; };
+		5CC3D44E2230D2530032C6AD /* dsl_1_a_disjoint_set_union_find_tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dsl_1_a_disjoint_set_union_find_tree.cpp; sourceTree = "<group>"; };
+		5CC3D44F2230D2530032C6AD /* alds1_4_b_binary_sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_4_b_binary_sort.cpp; sourceTree = "<group>"; };
+		5CC3D4502230D2530032C6AD /* grl_1_c_all_pairs_shortest_path_floyd.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = grl_1_c_all_pairs_shortest_path_floyd.cpp; sourceTree = "<group>"; };
+		5CC3D4512230D2530032C6AD /* grl_1_c_all_pairs_shortest_path.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = grl_1_c_all_pairs_shortest_path.cpp; sourceTree = "<group>"; };
+		5CC3D4522230D2530032C6AD /* doublyLinkedList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = doublyLinkedList.cpp; sourceTree = "<group>"; };
+		5CC3D4532230D2530032C6AD /* alds1_11_a_graph.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_11_a_graph.cpp; sourceTree = "<group>"; };
+		5CC3D4542230D2530032C6AD /* dpl_1_b_0_1_knapsack_problem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dpl_1_b_0_1_knapsack_problem.cpp; sourceTree = "<group>"; };
+		5CC3D4552230D2530032C6AD /* grl_3_a_articulation_point.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = grl_3_a_articulation_point.cpp; sourceTree = "<group>"; };
+		5CC3D4562230D2530032C6AD /* cgl_2_d_distance.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = cgl_2_d_distance.cpp; sourceTree = "<group>"; };
+		5CC3D4572230D2530032C6AD /* alds1_5_b_merge_sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_5_b_merge_sort.cpp; sourceTree = "<group>"; };
+		5CC3D4582230D2530032C6AD /* alds1_12_b_single_source_shortest_path.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_12_b_single_source_shortest_path.cpp; sourceTree = "<group>"; };
+		5CC3D4592230D2530032C6AD /* alds1_3_d.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_3_d.cpp; sourceTree = "<group>"; };
+		5CC3D45A2230D2530032C6AD /* alds1_10_c_longest_common_subsequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_10_c_longest_common_subsequence.cpp; sourceTree = "<group>"; };
+		5CC3D45B2230D2530032C6AD /* alds1_6_c_quick_sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_6_c_quick_sort.cpp; sourceTree = "<group>"; };
+		5CC3D45C2230D2530032C6AD /* dpl_1_d_longest_increasing_subsequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dpl_1_d_longest_increasing_subsequence.cpp; sourceTree = "<group>"; };
+		5CC3D45D2230D2530032C6AD /* cgl_4_a_convex_hull.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = cgl_4_a_convex_hull.cpp; sourceTree = "<group>"; };
+		5CC3D45E2230D2530032C6AD /* dsl_2_c_range_search_kD_tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dsl_2_c_range_search_kD_tree.cpp; sourceTree = "<group>"; };
+		5CC3D45F2230D2530032C6AD /* alds1_9_a_complete_binary_tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_9_a_complete_binary_tree.cpp; sourceTree = "<group>"; };
+		5CC3D4602230D2530032C6AD /* grl_4_b_topological_sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = grl_4_b_topological_sort.cpp; sourceTree = "<group>"; };
+		5CC3D4612230D2530032C6AD /* alds1_6_a_counting_sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_6_a_counting_sort.cpp; sourceTree = "<group>"; };
+		5CC3D4622230D2530032C6AD /* grl_2_a_min_spanning_tree_kruskal.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = grl_2_a_min_spanning_tree_kruskal.cpp; sourceTree = "<group>"; };
+		5CC3D4632230D2530032C6AD /* alds1_6_d_minimum_cost_sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_6_d_minimum_cost_sort.cpp; sourceTree = "<group>"; };
+		5CC3D4642230D2530032C6AD /* cgl_2_b_intersection.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = cgl_2_b_intersection.cpp; sourceTree = "<group>"; };
+		5CC3D4652230D2530032C6AD /* alds1_4_d.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_4_d.cpp; sourceTree = "<group>"; };
+		5CC3D4662230D2530032C6AD /* cgl_2_a_parallel_orthogonal.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = cgl_2_a_parallel_orthogonal.cpp; sourceTree = "<group>"; };
+		5CC3D4672230D2530032C6AD /* cgl_3_c_polygon_point_containment.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = cgl_3_c_polygon_point_containment.cpp; sourceTree = "<group>"; };
+		5CC3D4682230D2530032C6AD /* cgl_1_a_projection.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = cgl_1_a_projection.cpp; sourceTree = "<group>"; };
+		5CC3D4692230D2530032C6AD /* alds1_6_b_partion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_6_b_partion.cpp; sourceTree = "<group>"; };
+		5CC3D46A2230D2530032C6AD /* alds1_4_a.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_4_a.cpp; sourceTree = "<group>"; };
+		5CC3D46B2230D2530032C6AD /* dpl_3_a_largest_square.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dpl_3_a_largest_square.cpp; sourceTree = "<group>"; };
+		5CC3D46C2230D2530032C6AD /* alds1_10_b_matrix_chain_multiplication.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_10_b_matrix_chain_multiplication.cpp; sourceTree = "<group>"; };
+		5CC3D46D2230D2530032C6AD /* geometry.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = geometry.h; sourceTree = "<group>"; };
+		5CC3D46E2230D2530032C6AD /* alds1_7_d_reconstruction_of_tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_7_d_reconstruction_of_tree.cpp; sourceTree = "<group>"; };
+		5CC3D46F2230D2530032C6AD /* grl_5_a_diameter_of_tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = grl_5_a_diameter_of_tree.cpp; sourceTree = "<group>"; };
+		5CC3D4702230D2530032C6AD /* cgl_6_a_segment_intersection_manhattan_geometry.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = cgl_6_a_segment_intersection_manhattan_geometry.cpp; sourceTree = "<group>"; };
+		5CC3D4712230D2530032C6AD /* alds1_5_d_num_of_inversions.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = alds1_5_d_num_of_inversions.cpp; sourceTree = "<group>"; };
+		5CC3D4722230D2530032C6AD /* clion.xcworkspace */ = {isa = PBXFileReference; lastKnownFileType = wrapper.workspace; path = clion.xcworkspace; sourceTree = "<group>"; };
+		5CC3D4742230D2530032C6AD /* 剑指offer_13_调整数组顺序使奇数位于偶数前面.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_13_调整数组顺序使奇数位于偶数前面.cpp"; sourceTree = "<group>"; };
+		5CC3D4752230D2540032C6AD /* 剑指offer_15_反转链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_15_反转链表.cpp"; sourceTree = "<group>"; };
+		5CC3D4762230D2540032C6AD /* 牛客_网易互娱面试题_糖果谜题.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "牛客_网易互娱面试题_糖果谜题.cpp"; sourceTree = "<group>"; };
+		5CC3D4772230D2540032C6AD /* 剑指offer_5_两个栈实现队列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_5_两个栈实现队列.cpp"; sourceTree = "<group>"; };
+		5CC3D4782230D2540032C6AD /* 剑指offer_8_跳台阶.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_8_跳台阶.cpp"; sourceTree = "<group>"; };
+		5CC3D4792230D2540032C6AD /* 剑指offer_11_二进制中1的个数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_11_二进制中1的个数.cpp"; sourceTree = "<group>"; };
+		5CC3D47A2230D2540032C6AD /* 剑指offer_6_旋转数组的最小数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_6_旋转数组的最小数字.cpp"; sourceTree = "<group>"; };
+		5CC3D47B2230D2540032C6AD /* 剑指offer_14_链表中倒数第k个节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_14_链表中倒数第k个节点.cpp"; sourceTree = "<group>"; };
+		5CC3D47C2230D2540032C6AD /* 剑指offer_12_数值的整数次方.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_12_数值的整数次方.cpp"; sourceTree = "<group>"; };
+		5CC3D47D2230D2540032C6AD /* 剑指offer_10_矩形覆盖.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_10_矩形覆盖.cpp"; sourceTree = "<group>"; };
+		5CC3D47E2230D2540032C6AD /* 剑指offer_1_二维数组查找.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_1_二维数组查找.cpp"; sourceTree = "<group>"; };
+		5CC3D47F2230D2540032C6AD /* 牛客_围圈报数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "牛客_围圈报数.cpp"; sourceTree = "<group>"; };
+		5CC3D4802230D2540032C6AD /* 剑指offer_4_重建二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_4_重建二叉树.cpp"; sourceTree = "<group>"; };
+		5CC3D4812230D2540032C6AD /* 剑指offer_9_变态跳台阶.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_9_变态跳台阶.cpp"; sourceTree = "<group>"; };
+		5CC3D4822230D2540032C6AD /* 剑指offer_7_斐波那契数列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_7_斐波那契数列.cpp"; sourceTree = "<group>"; };
+		5CC3D4832230D2540032C6AD /* 剑指offer_3_从头到尾打印链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_3_从头到尾打印链表.cpp"; sourceTree = "<group>"; };
+		5CC3D4842230D2540032C6AD /* 剑指offer_2_替换空格.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_2_替换空格.cpp"; sourceTree = "<group>"; };
+		5CC3D4852230D2540032C6AD /* 牛客_网易互娱面试题_一封奇怪的信.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "牛客_网易互娱面试题_一封奇怪的信.cpp"; sourceTree = "<group>"; };
+		5CC3D4872230D2540032C6AD /* 去除c++中的注释.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "去除c++中的注释.cpp"; sourceTree = "<group>"; };
+		5CC3D4882230D2540032C6AD /* toutiao.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = toutiao.cpp; sourceTree = "<group>"; };
+		5CC3D4892230D2540032C6AD /* test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test.cpp; sourceTree = "<group>"; };
+		5CC3D48B2230D2540032C6AD /* hihocoder_offers86_update_string.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = hihocoder_offers86_update_string.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,9 +138,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5C0843372233AD58001DAAF4 /* leetcode */ = {
+			isa = PBXGroup;
+			children = (
+				5C0843382233AD7C001DAAF4 /* 142LinkedListCycleII.cpp */,
+				5C08433A2233B9B0001DAAF4 /* 160IntersectionofTwoLinkedLists.cpp */,
+			);
+			path = leetcode;
+			sourceTree = "<group>";
+		};
+		5C7E446A2233FE5B002E5231 /* tencent */ = {
+			isa = PBXGroup;
+			children = (
+				5C7E446B2233FEFF002E5231 /* tencent2.cpp */,
+				5C7E446D2233FEFF002E5231 /* tencent3.cpp */,
+				5C7E446E2233FF6F002E5231 /* tencent4.cpp */,
+				5C7E446C2233FEFF002E5231 /* tencent1.cpp */,
+			);
+			path = tencent;
+			sourceTree = "<group>";
+		};
 		5CC3D3F52230D2320032C6AD = {
 			isa = PBXGroup;
 			children = (
+				5CC3D4732230D2530032C6AD /* 剑指offer */,
+				5CC3D4862230D2540032C6AD /* 面试 */,
+				5CC3D43A2230D2530032C6AD /* AOL */,
+				5CC3D4722230D2530032C6AD /* clion.xcworkspace */,
+				5C0843372233AD58001DAAF4 /* leetcode */,
+				5CC3D48B2230D2540032C6AD /* hihocoder_offers86_update_string.cpp */,
+				5CC3D4082230D2530032C6AD /* model.cpp */,
+				5CC3D4392230D2530032C6AD /* pid.c */,
+				5CC3D4892230D2540032C6AD /* test.cpp */,
+				5CC3D4882230D2540032C6AD /* toutiao.cpp */,
 				5CC3D4002230D2320032C6AD /* algorithm */,
 				5CC3D3FF2230D2320032C6AD /* Products */,
 			);
@@ -58,8 +188,118 @@
 			isa = PBXGroup;
 			children = (
 				5CC3D4012230D2320032C6AD /* main.cpp */,
+				5CB0EEA42239194400963CF4 /* 把所有非0元素移动到数组末尾.cpp */,
 			);
 			path = algorithm;
+			sourceTree = "<group>";
+		};
+		5CC3D43A2230D2530032C6AD /* AOL */ = {
+			isa = PBXGroup;
+			children = (
+				5CC3D4592230D2530032C6AD /* alds1_3_d.cpp */,
+				5CC3D46A2230D2530032C6AD /* alds1_4_a.cpp */,
+				5CC3D44F2230D2530032C6AD /* alds1_4_b_binary_sort.cpp */,
+				5CC3D4652230D2530032C6AD /* alds1_4_d.cpp */,
+				5CC3D4402230D2530032C6AD /* alds1_5_a_exhaustive_search.cpp */,
+				5CC3D4572230D2530032C6AD /* alds1_5_b_merge_sort.cpp */,
+				5CC3D4712230D2530032C6AD /* alds1_5_d_num_of_inversions.cpp */,
+				5CC3D4612230D2530032C6AD /* alds1_6_a_counting_sort.cpp */,
+				5CC3D4692230D2530032C6AD /* alds1_6_b_partion.cpp */,
+				5CC3D45B2230D2530032C6AD /* alds1_6_c_quick_sort.cpp */,
+				5CC3D4632230D2530032C6AD /* alds1_6_d_minimum_cost_sort.cpp */,
+				5CC3D4462230D2530032C6AD /* alds1_7_a_rooted_tree.cpp */,
+				5CC3D4492230D2530032C6AD /* alds1_7_b_binary_tree.cpp */,
+				5CC3D4452230D2530032C6AD /* alds1_7_c_tree_walk.cpp */,
+				5CC3D46E2230D2530032C6AD /* alds1_7_d_reconstruction_of_tree.cpp */,
+				5CC3D44A2230D2530032C6AD /* alds1_8_a_binary_search_tree_1.cpp */,
+				5CC3D45F2230D2530032C6AD /* alds1_9_a_complete_binary_tree.cpp */,
+				5CC3D43B2230D2530032C6AD /* alds1_9_b_maximum_heap.cpp */,
+				5CC3D43F2230D2530032C6AD /* alds1_9_c_priority_queue.cpp */,
+				5CC3D4482230D2530032C6AD /* alds1_10_a_fibonacci_number.cpp */,
+				5CC3D46C2230D2530032C6AD /* alds1_10_b_matrix_chain_multiplication.cpp */,
+				5CC3D45A2230D2530032C6AD /* alds1_10_c_longest_common_subsequence.cpp */,
+				5CC3D4532230D2530032C6AD /* alds1_11_a_graph.cpp */,
+				5CC3D43D2230D2530032C6AD /* alds1_11_b_dfs.cpp */,
+				5CC3D43E2230D2530032C6AD /* alds1_11_c_bfs.cpp */,
+				5CC3D4422230D2530032C6AD /* alds1_11_d_connected_componets.cpp */,
+				5CC3D4412230D2530032C6AD /* alds1_12_a_min_spanning_tree.cpp */,
+				5CC3D43C2230D2530032C6AD /* alds1_12_b_single_source_shortest_path_II.cpp */,
+				5CC3D4582230D2530032C6AD /* alds1_12_b_single_source_shortest_path.cpp */,
+				5CC3D4682230D2530032C6AD /* cgl_1_a_projection.cpp */,
+				5CC3D44B2230D2530032C6AD /* cgl_1_c_counter_clockwise.cpp */,
+				5CC3D4662230D2530032C6AD /* cgl_2_a_parallel_orthogonal.cpp */,
+				5CC3D4642230D2530032C6AD /* cgl_2_b_intersection.cpp */,
+				5CC3D44C2230D2530032C6AD /* cgl_2_c_cross_point.cpp */,
+				5CC3D4562230D2530032C6AD /* cgl_2_d_distance.cpp */,
+				5CC3D4672230D2530032C6AD /* cgl_3_c_polygon_point_containment.cpp */,
+				5CC3D45D2230D2530032C6AD /* cgl_4_a_convex_hull.cpp */,
+				5CC3D4702230D2530032C6AD /* cgl_6_a_segment_intersection_manhattan_geometry.cpp */,
+				5CC3D44D2230D2530032C6AD /* cgl_7_d_cross_point_of_a_circle_and_a_line.cpp */,
+				5CC3D4472230D2530032C6AD /* cgl_7_e_cross_point_of_circles.cpp */,
+				5CC3D4522230D2530032C6AD /* doublyLinkedList.cpp */,
+				5CC3D4442230D2530032C6AD /* dpl_1_a_coin_changing_problem_dp.cpp */,
+				5CC3D4542230D2530032C6AD /* dpl_1_b_0_1_knapsack_problem.cpp */,
+				5CC3D45C2230D2530032C6AD /* dpl_1_d_longest_increasing_subsequence.cpp */,
+				5CC3D46B2230D2530032C6AD /* dpl_3_a_largest_square.cpp */,
+				5CC3D4432230D2530032C6AD /* dpl_3_b_largest_rectangle.cpp */,
+				5CC3D44E2230D2530032C6AD /* dsl_1_a_disjoint_set_union_find_tree.cpp */,
+				5CC3D45E2230D2530032C6AD /* dsl_2_c_range_search_kD_tree.cpp */,
+				5CC3D46D2230D2530032C6AD /* geometry.h */,
+				5CC3D4502230D2530032C6AD /* grl_1_c_all_pairs_shortest_path_floyd.cpp */,
+				5CC3D4512230D2530032C6AD /* grl_1_c_all_pairs_shortest_path.cpp */,
+				5CC3D4622230D2530032C6AD /* grl_2_a_min_spanning_tree_kruskal.cpp */,
+				5CC3D4552230D2530032C6AD /* grl_3_a_articulation_point.cpp */,
+				5CC3D4602230D2530032C6AD /* grl_4_b_topological_sort.cpp */,
+				5CC3D46F2230D2530032C6AD /* grl_5_a_diameter_of_tree.cpp */,
+			);
+			path = AOL;
+			sourceTree = "<group>";
+		};
+		5CC3D4732230D2530032C6AD /* 剑指offer */ = {
+			isa = PBXGroup;
+			children = (
+				5CC3D47E2230D2540032C6AD /* 剑指offer_1_二维数组查找.cpp */,
+				5CC3D4842230D2540032C6AD /* 剑指offer_2_替换空格.cpp */,
+				5CC3D4832230D2540032C6AD /* 剑指offer_3_从头到尾打印链表.cpp */,
+				5CC3D4802230D2540032C6AD /* 剑指offer_4_重建二叉树.cpp */,
+				5CC3D4772230D2540032C6AD /* 剑指offer_5_两个栈实现队列.cpp */,
+				5CC3D47A2230D2540032C6AD /* 剑指offer_6_旋转数组的最小数字.cpp */,
+				5CC3D4822230D2540032C6AD /* 剑指offer_7_斐波那契数列.cpp */,
+				5CC3D4782230D2540032C6AD /* 剑指offer_8_跳台阶.cpp */,
+				5CC3D4812230D2540032C6AD /* 剑指offer_9_变态跳台阶.cpp */,
+				5CC3D47D2230D2540032C6AD /* 剑指offer_10_矩形覆盖.cpp */,
+				5CC3D4792230D2540032C6AD /* 剑指offer_11_二进制中1的个数.cpp */,
+				5CC3D47C2230D2540032C6AD /* 剑指offer_12_数值的整数次方.cpp */,
+				5CC3D4742230D2530032C6AD /* 剑指offer_13_调整数组顺序使奇数位于偶数前面.cpp */,
+				5CC3D47B2230D2540032C6AD /* 剑指offer_14_链表中倒数第k个节点.cpp */,
+				5CC3D4752230D2540032C6AD /* 剑指offer_15_反转链表.cpp */,
+				5C57E59522328A7E0074739C /* 剑指offer_16_合并两个排序的链表.cpp */,
+				5C57E597223295080074739C /* 剑指offer_17_树的子结构.cpp */,
+				5C57E5992232A1A80074739C /* 剑指offer_18_二叉树的镜像.cpp */,
+				5C57E59B2232A9C90074739C /* 剑指offer_19_顺时针打印矩阵.cpp */,
+				5C08433522339F98001DAAF4 /* 剑指offer_20_包含min函数的栈.cpp */,
+				5C4266B52236A6E300806844 /* 剑指offer_21_栈的压入弹出序列.cpp */,
+				5C4266B72236B11800806844 /* 剑指offer_22_从上往下打印二叉树.cpp */,
+				5CC3CCB822375A1F00961029 /* 剑指offer_23_二叉搜索树的后序遍历序列.cpp */,
+				5CC3CCBA2237FE8100961029 /* 剑指offer_24_二叉树中和为某一值的所有路径.cpp */,
+				5C5A4FAE2238A31E009A0DFD /* 剑指offer_25_复杂链表的复制.cpp */,
+				5C06EBF8223BE6760005B60A /* 剑指offer_26_二叉搜索树与双向链表.cpp */,
+				5C06EBFA223C99860005B60A /* 剑指offer_27_字符串的排列.cpp */,
+				5C06EBFD223E37DB0005B60A /* 剑指offer_28_数组中出现次数超过一半的数字.cpp */,
+				5CC3D4762230D2540032C6AD /* 牛客_网易互娱面试题_糖果谜题.cpp */,
+				5CC3D4852230D2540032C6AD /* 牛客_网易互娱面试题_一封奇怪的信.cpp */,
+				5CC3D47F2230D2540032C6AD /* 牛客_围圈报数.cpp */,
+			);
+			path = "剑指offer";
+			sourceTree = "<group>";
+		};
+		5CC3D4862230D2540032C6AD /* 面试 */ = {
+			isa = PBXGroup;
+			children = (
+				5C7E446A2233FE5B002E5231 /* tencent */,
+				5CC3D4872230D2540032C6AD /* 去除c++中的注释.cpp */,
+			);
+			path = "面试";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -118,7 +358,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5CC3D4022230D2320032C6AD /* main.cpp in Sources */,
+				5C06EBFE223E37DB0005B60A /* 剑指offer_28_数组中出现次数超过一半的数字.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
