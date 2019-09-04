@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5C06EBFE223E37DB0005B60A /* 剑指offer_28_数组中出现次数超过一半的数字.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5C06EBFD223E37DB0005B60A /* 剑指offer_28_数组中出现次数超过一半的数字.cpp */; };
+		5C5D0C12225A2D5E0033589A /* 笔试.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5C5D0C11225A2D5E0033589A /* 笔试.cpp */; };
+		5C8B2AD62253691D0059EC36 /* 剑指offer_39_二叉平衡树判断.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5C8B2AD52253691D0059EC36 /* 剑指offer_39_二叉平衡树判断.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,9 +27,15 @@
 		5C06EBF8223BE6760005B60A /* 剑指offer_26_二叉搜索树与双向链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_26_二叉搜索树与双向链表.cpp"; sourceTree = "<group>"; };
 		5C06EBFA223C99860005B60A /* 剑指offer_27_字符串的排列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_27_字符串的排列.cpp"; sourceTree = "<group>"; };
 		5C06EBFD223E37DB0005B60A /* 剑指offer_28_数组中出现次数超过一半的数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_28_数组中出现次数超过一半的数字.cpp"; sourceTree = "<group>"; };
+		5C06EBFF223E40A50005B60A /* 剑指offer_model.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_model.cpp"; sourceTree = "<group>"; };
 		5C08433522339F98001DAAF4 /* 剑指offer_20_包含min函数的栈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_20_包含min函数的栈.cpp"; sourceTree = "<group>"; };
 		5C0843382233AD7C001DAAF4 /* 142LinkedListCycleII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 142LinkedListCycleII.cpp; sourceTree = "<group>"; };
 		5C08433A2233B9B0001DAAF4 /* 160IntersectionofTwoLinkedLists.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 160IntersectionofTwoLinkedLists.cpp; sourceTree = "<group>"; };
+		5C0998862245D57400D31252 /* 40CombinationSumII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 40CombinationSumII.cpp; sourceTree = "<group>"; };
+		5C099889224657F400D31252 /* 阿里.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "阿里.cpp"; sourceTree = "<group>"; };
+		5C0FA76622507D8E00E70E76 /* 剑指offer_36_两个链表的第一个公共结点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_36_两个链表的第一个公共结点.cpp"; sourceTree = "<group>"; };
+		5C0FA76822507E3F00E70E76 /* 字符串数组中最长公共前缀.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "字符串数组中最长公共前缀.cpp"; sourceTree = "<group>"; };
+		5C27DD3E224284FD00447834 /* 剑指offer_30_连续数组的最大和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_30_连续数组的最大和.cpp"; sourceTree = "<group>"; };
 		5C4266B52236A6E300806844 /* 剑指offer_21_栈的压入弹出序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_21_栈的压入弹出序列.cpp"; sourceTree = "<group>"; };
 		5C4266B72236B11800806844 /* 剑指offer_22_从上往下打印二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_22_从上往下打印二叉树.cpp"; sourceTree = "<group>"; };
 		5C57E59522328A7E0074739C /* 剑指offer_16_合并两个排序的链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_16_合并两个排序的链表.cpp"; sourceTree = "<group>"; };
@@ -36,11 +43,18 @@
 		5C57E5992232A1A80074739C /* 剑指offer_18_二叉树的镜像.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_18_二叉树的镜像.cpp"; sourceTree = "<group>"; };
 		5C57E59B2232A9C90074739C /* 剑指offer_19_顺时针打印矩阵.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_19_顺时针打印矩阵.cpp"; sourceTree = "<group>"; };
 		5C5A4FAE2238A31E009A0DFD /* 剑指offer_25_复杂链表的复制.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_25_复杂链表的复制.cpp"; sourceTree = "<group>"; };
+		5C5D0C11225A2D5E0033589A /* 笔试.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "笔试.cpp"; sourceTree = "<group>"; };
 		5C7E446B2233FEFF002E5231 /* tencent2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = tencent2.cpp; sourceTree = "<group>"; };
 		5C7E446C2233FEFF002E5231 /* tencent1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = tencent1.cpp; sourceTree = "<group>"; };
 		5C7E446D2233FEFF002E5231 /* tencent3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = tencent3.cpp; sourceTree = "<group>"; };
 		5C7E446E2233FF6F002E5231 /* tencent4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = tencent4.cpp; sourceTree = "<group>"; };
+		5C8B2AD52253691D0059EC36 /* 剑指offer_39_二叉平衡树判断.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_39_二叉平衡树判断.cpp"; sourceTree = "<group>"; };
+		5C9953BE22447E230069BDA9 /* 5最长回文子串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5最长回文子串.cpp"; sourceTree = "<group>"; };
+		5C9953C02244F5CE0069BDA9 /* 剑指offer_47_圈中剩下最小的数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_47_圈中剩下最小的数.cpp"; sourceTree = "<group>"; };
+		5C9953C222451FFD0069BDA9 /* 95UniqueBinarySearchTreesII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 95UniqueBinarySearchTreesII.cpp; sourceTree = "<group>"; };
+		5C9953C4224525310069BDA9 /* 120等边三角形最短路径长度.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "120等边三角形最短路径长度.cpp"; sourceTree = "<group>"; };
 		5CB0EEA42239194400963CF4 /* 把所有非0元素移动到数组末尾.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "把所有非0元素移动到数组末尾.cpp"; sourceTree = "<group>"; };
+		5CB8476A2243E1380062A840 /* 剑指offer_32_把数组排成最小的数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_32_把数组排成最小的数.cpp"; sourceTree = "<group>"; };
 		5CC3CCB822375A1F00961029 /* 剑指offer_23_二叉搜索树的后序遍历序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_23_二叉搜索树的后序遍历序列.cpp"; sourceTree = "<group>"; };
 		5CC3CCBA2237FE8100961029 /* 剑指offer_24_二叉树中和为某一值的所有路径.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_24_二叉树中和为某一值的所有路径.cpp"; sourceTree = "<group>"; };
 		5CC3D3FE2230D2320032C6AD /* algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -125,6 +139,8 @@
 		5CC3D4882230D2540032C6AD /* toutiao.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = toutiao.cpp; sourceTree = "<group>"; };
 		5CC3D4892230D2540032C6AD /* test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test.cpp; sourceTree = "<group>"; };
 		5CC3D48B2230D2540032C6AD /* hihocoder_offers86_update_string.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = hihocoder_offers86_update_string.cpp; sourceTree = "<group>"; };
+		5CD817A722407D1700156D01 /* 剑指offer_29_最小的k个数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_29_最小的k个数.cpp"; sourceTree = "<group>"; };
+		5CD817A9224093E500156D01 /* 剑指offer_29_最小的k个数_最小堆解法.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指offer_29_最小的k个数_最小堆解法.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +159,10 @@
 			children = (
 				5C0843382233AD7C001DAAF4 /* 142LinkedListCycleII.cpp */,
 				5C08433A2233B9B0001DAAF4 /* 160IntersectionofTwoLinkedLists.cpp */,
+				5C9953BE22447E230069BDA9 /* 5最长回文子串.cpp */,
+				5C9953C222451FFD0069BDA9 /* 95UniqueBinarySearchTreesII.cpp */,
+				5C9953C4224525310069BDA9 /* 120等边三角形最短路径长度.cpp */,
+				5C0998862245D57400D31252 /* 40CombinationSumII.cpp */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -154,6 +174,8 @@
 				5C7E446D2233FEFF002E5231 /* tencent3.cpp */,
 				5C7E446E2233FF6F002E5231 /* tencent4.cpp */,
 				5C7E446C2233FEFF002E5231 /* tencent1.cpp */,
+				5C0FA76822507E3F00E70E76 /* 字符串数组中最长公共前缀.cpp */,
+				5C5D0C11225A2D5E0033589A /* 笔试.cpp */,
 			);
 			path = tencent;
 			sourceTree = "<group>";
@@ -163,7 +185,7 @@
 			children = (
 				5CC3D4732230D2530032C6AD /* 剑指offer */,
 				5CC3D4862230D2540032C6AD /* 面试 */,
-				5CC3D43A2230D2530032C6AD /* AOL */,
+				5CC3D43A2230D2530032C6AD /* AOJ */,
 				5CC3D4722230D2530032C6AD /* clion.xcworkspace */,
 				5C0843372233AD58001DAAF4 /* leetcode */,
 				5CC3D48B2230D2540032C6AD /* hihocoder_offers86_update_string.cpp */,
@@ -193,7 +215,7 @@
 			path = algorithm;
 			sourceTree = "<group>";
 		};
-		5CC3D43A2230D2530032C6AD /* AOL */ = {
+		5CC3D43A2230D2530032C6AD /* AOJ */ = {
 			isa = PBXGroup;
 			children = (
 				5CC3D4592230D2530032C6AD /* alds1_3_d.cpp */,
@@ -252,7 +274,7 @@
 				5CC3D4602230D2530032C6AD /* grl_4_b_topological_sort.cpp */,
 				5CC3D46F2230D2530032C6AD /* grl_5_a_diameter_of_tree.cpp */,
 			);
-			path = AOL;
+			path = AOJ;
 			sourceTree = "<group>";
 		};
 		5CC3D4732230D2530032C6AD /* 剑指offer */ = {
@@ -286,6 +308,14 @@
 				5C06EBF8223BE6760005B60A /* 剑指offer_26_二叉搜索树与双向链表.cpp */,
 				5C06EBFA223C99860005B60A /* 剑指offer_27_字符串的排列.cpp */,
 				5C06EBFD223E37DB0005B60A /* 剑指offer_28_数组中出现次数超过一半的数字.cpp */,
+				5CD817A722407D1700156D01 /* 剑指offer_29_最小的k个数.cpp */,
+				5CD817A9224093E500156D01 /* 剑指offer_29_最小的k个数_最小堆解法.cpp */,
+				5C27DD3E224284FD00447834 /* 剑指offer_30_连续数组的最大和.cpp */,
+				5CB8476A2243E1380062A840 /* 剑指offer_32_把数组排成最小的数.cpp */,
+				5C0FA76622507D8E00E70E76 /* 剑指offer_36_两个链表的第一个公共结点.cpp */,
+				5C8B2AD52253691D0059EC36 /* 剑指offer_39_二叉平衡树判断.cpp */,
+				5C9953C02244F5CE0069BDA9 /* 剑指offer_47_圈中剩下最小的数.cpp */,
+				5C06EBFF223E40A50005B60A /* 剑指offer_model.cpp */,
 				5CC3D4762230D2540032C6AD /* 牛客_网易互娱面试题_糖果谜题.cpp */,
 				5CC3D4852230D2540032C6AD /* 牛客_网易互娱面试题_一封奇怪的信.cpp */,
 				5CC3D47F2230D2540032C6AD /* 牛客_围圈报数.cpp */,
@@ -298,6 +328,7 @@
 			children = (
 				5C7E446A2233FE5B002E5231 /* tencent */,
 				5CC3D4872230D2540032C6AD /* 去除c++中的注释.cpp */,
+				5C099889224657F400D31252 /* 阿里.cpp */,
 			);
 			path = "面试";
 			sourceTree = "<group>";
@@ -358,7 +389,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5C06EBFE223E37DB0005B60A /* 剑指offer_28_数组中出现次数超过一半的数字.cpp in Sources */,
+				5C5D0C12225A2D5E0033589A /* 笔试.cpp in Sources */,
+				5C8B2AD62253691D0059EC36 /* 剑指offer_39_二叉平衡树判断.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

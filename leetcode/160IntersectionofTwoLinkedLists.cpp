@@ -24,7 +24,7 @@ class Solution {
 private:
     map<ListNode*, int> degree;
 public:
-    // Too naive solution
+    // Good solution
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         if (headA == NULL || headB == NULL) {
             return NULL;
